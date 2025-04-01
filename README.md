@@ -20,6 +20,4 @@ src="https://img.shields.io/github/followers/kksand3r?logo=github&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/kksand3r"><img src="https://github-readme-stats.vercel.app/api?username=kksand3r&show_icons=true&hide=contribs&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="kksand3r's GitHub stats" /></a>
