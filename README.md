@@ -5,6 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [Benedyk_blog](https://github.com/kksand3r/Benedyk_blog)
 * 🧠  I'm learning C#, Frontend
 
+<a href="https://www.github.com/kksand3r" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kksand3r?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 ### Skills
 
 <div align="left">
@@ -25,9 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
-
 ### Socials
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
