@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleksandr Benedyk
 =========================================================================================================================================
 
-* ✉️  You can contact me at [Telegram](https://t.me/kksand3r) or [nonamesan9i@gmail.com](mailto:nonamesan9i@gmail.com) 
+* ✉️  You can contact me at [Telegram](https://t.me/kksand3r) or [Gmail](mailto:nonamesan9i@gmail.com) 
 * 🚀  I'm currently working on [Benedyk_blog](https://github.com/kksand3r/Benedyk_blog)
 * 🧠  I'm learning C#, Frontend
 
