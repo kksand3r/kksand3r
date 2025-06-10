@@ -25,23 +25,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ### Socials
-<div align="left">
-  <a href="https://www.instagram.com/kksand3r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="https://www.twitch.tv/kksand3r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo" />
-  </a>
-  <a href="https://x.com/kksand3r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/oleksandr-benedyk-aa83a135a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-</div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kksand3r)
-[![Twitch](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.twitch.tv/kksand3r)
-[![Twitter](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://x.com/kksand3r)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/oleksandr-benedyk-aa83a135a/)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/kksand3r)
+[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/kksand3r)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/oleksandr-benedyk-aa83a135a/)
 
