@@ -10,23 +10,22 @@ src="https://img.shields.io/github/followers/kksand3r?logo=github&style=for-the-
 ### Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-
 
 ### Socials
 
