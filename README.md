@@ -5,10 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [Benedyk_blog](https://github.com/kksand3r/Benedyk_blog)
 * 🧠  I'm learning C#, Frontend
 
-<a href="https://www.github.com/kksand3r" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kksand3r?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 ### Skills
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
