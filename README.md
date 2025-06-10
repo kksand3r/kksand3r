@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [Benedyk_blog](https://github.com/kksand3r/Benedyk_blog)
 * 🧠  I'm learning C#, Frontend
 
-<a href="https://www.github.com/kksand3r" target="_blank" rel="noreferrer"><img
 ### Skills
 
 <div align="left">
