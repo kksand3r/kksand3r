@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning C#, Frontend
 
 <a href="https://www.github.com/kksand3r" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kksand3r?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 ### Skills
 
 <div align="left">
