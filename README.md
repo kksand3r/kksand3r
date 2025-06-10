@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/kksand3r)
-[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/kksand3r)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/kksand3r)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/oleksandr-benedyk-aa83a135a/)
 
