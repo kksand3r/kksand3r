@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning C#, Frontend
 
 ### 📄 Resume
-[![Resume](https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://my-cv-xi-jade.vercel.app/)
+<a href="https://my-cv-xi-jade.vercel.app/" rel="nofollow">My Resume</a>
 
 ### Skills
 <div align="left">
