@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kksand3r/kksand3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/header.svg" alt="Oleksandr Benedyk" />
 
-Here are some ideas to get you started:
+<img src="assets/spacer.svg" height="16" width="1" alt="" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://my-cv-xi-jade.vercel.app/"><img src="assets/badges/badge-resume.svg" alt="resume"/></a>
+<a href="https://t.me/kksand3r"><img src="assets/badges/badge-telegram.svg" alt="telegram"/></a>
+<a href="mailto:nonamesan9i@gmail.com"><img src="assets/badges/badge-email.svg" alt="email"/></a>
+<a href="https://www.linkedin.com/in/oleksandr-benedyk-aa83a135a/"><img src="assets/badges/badge-linkedin.svg" alt="linkedIn"/></a>
+
+</div>
+
+<br>
+
+<img src="assets/about.svg" alt="01 — whoami" />
+
+<br>
+
+<img src="assets/stack.svg" alt="02 — stack" />
