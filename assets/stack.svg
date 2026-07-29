@@ -1,0 +1,34 @@
+<svg width="900" height="270" viewBox="0 0 900 270" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="270" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze"/>
+  </rect>
+
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze"/>
+    <text x="28" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#7d8590" letter-spacing="3">02 — STACK</text>
+    <line x1="28" y1="46" x2="872" y2="46" stroke="#30363d" stroke-width="1"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="28" y="84" fill="#7d8590">FRONTEND</text>
+    <clipPath id="s1"><rect x="180" y="68" height="20"><animate attributeName="width" from="0" to="560" dur="0.6s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#s1)"><text x="180" y="84" fill="#e6edf3">React · JavaScript · TypeScript · HTML · CSS · Tailwind CSS</text></g>
+    <line x1="28" y1="96" x2="872" y2="96" stroke="#21262d" stroke-width="1"/>
+
+    <text x="28" y="128" fill="#7d8590">LANGUAGES</text>
+    <clipPath id="s2"><rect x="180" y="112" height="20"><animate attributeName="width" from="0" to="230" dur="0.6s" begin="0.9s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#s2)"><text x="180" y="128" fill="#e6edf3">C# · C++ · ASP.NET Core</text></g>
+    <line x1="28" y1="140" x2="872" y2="140" stroke="#21262d" stroke-width="1"/>
+
+    <text x="28" y="172" fill="#7d8590">DATABASE</text>
+    <clipPath id="s3"><rect x="180" y="156" height="20"><animate attributeName="width" from="0" to="330" dur="0.6s" begin="1.5s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#s3)"><text x="180" y="172" fill="#e6edf3">Elasticsearch · PostgreSQL · MySQL</text></g>
+    <line x1="28" y1="184" x2="872" y2="184" stroke="#21262d" stroke-width="1"/>
+
+    <text x="28" y="216" fill="#7d8590">TOOLS</text>
+    <clipPath id="s4"><rect x="180" y="200" height="20"><animate attributeName="width" from="0" to="130" dur="0.6s" begin="2.1s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#s4)"><text x="180" y="216" fill="#e6edf3">Git · Docker</text></g>
+  </g>
+
+  <text x="28" y="252" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#484f58">_<animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="2.7s" repeatCount="indefinite"/></text>
+</svg>
